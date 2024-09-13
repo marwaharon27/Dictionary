@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Dictionary/static/css/main.450cff6d.css",
+    "main.js": "/Dictionary/static/js/main.55b08a7e.js",
+    "static/media/icomoon.eot?d57frq": "/Dictionary/static/media/icomoon.e8ec4aa8755da8430aee.eot",
+    "static/media/icomoon.woff?d57frq": "/Dictionary/static/media/icomoon.937b1ac30e5429a675a4.woff",
+    "index.html": "/Dictionary/index.html",
+    "static/media/icomoon.svg?d57frq": "/Dictionary/static/media/icomoon.fd52e618de9fdb62d0ed.svg",
+    "static/media/icomoon.ttf?d57frq": "/Dictionary/static/media/icomoon.a79c4c8a59141bcb07f1.ttf",
+    "main.450cff6d.css.map": "/Dictionary/static/css/main.450cff6d.css.map",
+    "main.55b08a7e.js.map": "/Dictionary/static/js/main.55b08a7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.450cff6d.css",
+    "static/js/main.55b08a7e.js"
+  ]
+}
